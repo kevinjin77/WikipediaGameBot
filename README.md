@@ -24,6 +24,7 @@ Instructions:
 4. ````flask run````
 5. Go to the address shown in the terminal
 
+![Alt text](/static/Screenshot from 2017-09-17 08.15.24.png?raw=true "Optional Title")
 
 ## Built With
 
